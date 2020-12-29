@@ -1,4 +1,4 @@
-# ridhobot
+#  cyber-bot-V2
 BOT WHATSAPP HP RIDHO SETIAWAN
 
 ### Alat dan Bahan
